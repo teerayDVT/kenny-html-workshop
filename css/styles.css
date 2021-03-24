@@ -1,0 +1,33 @@
+body {
+	font-family: Courier New, sans-serif;
+}
+
+#left {
+	float: left;
+	width: 50%;
+}
+
+#right {
+	float: right;
+}
+
+#profile_picture {
+	border-radius: 10px;
+	max-width: 100%;
+	max-height: 100%;
+	width: 70%;
+	height: auto;
+	border: 1px solid grey;
+	padding: 5px;
+	box-shadow: 0 0 10px grey;
+}
+
+.bold_italic {
+	font-style: italic;
+	font-weight: bold;
+}
+
+a {
+	text-decoration: none;
+	color: #3399ff;
+}
