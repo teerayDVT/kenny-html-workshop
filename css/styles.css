@@ -16,12 +16,10 @@ body {
 	order: -1;
 	align-self: center;
 	border-right: 1px solid #737373;
-	/*background-color: blue;*/
 }
 
 #right {
 	display: flex;
-	/*background-color: pink;*/
 	flex-grow: 1;
 	order: 1;
 	justify-content: center;
@@ -45,7 +43,6 @@ body {
 	height: 15%;
 	text-align: center;
 	background-color: white;
-	/*display: none;*/
 	order: 1;
 }
 
